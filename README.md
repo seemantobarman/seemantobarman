@@ -8,32 +8,44 @@
 
 <div align="center">
 <h2>Tech stacks I use</h2>
-<p>
+<!-- <p>
 <strong><span style="color:#107896">Languages: </span></strong> <span style="color:#43ABC9">Javascript, Python</span><br>
 <strong><span style="color:#107896">IDEs: </span></strong> <span style="color:#43ABC9">VS Code, Google Colab, Jupyter Notebook</span><br>
 <strong><span style="color:#107896">Frameworks/Libraries: </span></strong> <span style="color:#43ABC9">React, Next, Node, Express, Next-Auth, Redux, Keras, Pytorch, Pandas, Beautifulsoup, Selenium, OpenCV </span><br>
 <strong><span style="color:#107896">UI Design:</span></strong> <span style="color:#43ABC9">Chakra-UI, Material-UI, Ant-Design, React-Bootstrap, Tailwind CSS, </span><br>
 <strong><span style="color:#107896">Databases:</span></strong> <span style="color:#43ABC9">MongoDB, Postgresql, Firebase</span><br>
-</p>
+</p> -->
 </div>
 
 ```
-project
-│   README.md
-│   file001.txt
+Tools/Stacks
 │
-└───folder1
-│   │   file011.txt
-│   │   file012.txt
-│   │
-│   └───subfolder1
-│       │   file111.txt
-│       │   file112.txt
-│       │   ...
+└───Languages
+│   └─── Javascript, Python, C#
 │
-└───folder2
-    │   file021.txt
-    │   file022.txt
+└───IDEs
+│   └─── Visual Studio Code, Google Colab, Jypyter Notebook
+│
+└───Frontend Libraries/Frameworks
+│   └─── ReactJS, NextJS, Net-Auth, Redux
+│
+└───Backend Libraries
+│   └─── Node, Express, JWT, Sanity.io
+│
+└───AI/Machine Learning Frameworks
+│   └─── Keras, Pytorch, Pandas, numpy, scipy, OpenCV
+│
+└───Scraping/Crawling/Bot
+│   └─── Beautifulsoup, Selenium
+│
+└───UI Frameworks
+│   └─── Chakra-UI, Material-UI, Ant-Design, React-Bootstrap, Tailwind CSS
+│
+└───Databases
+│   └─── MongoDB, Postgresql, Firebase
+│
+└───Version Control
+    └─── Git
 ```
 
 <div align="center">

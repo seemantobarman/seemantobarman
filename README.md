@@ -9,13 +9,32 @@
 <div align="center">
 <h2>Tech stacks I use</h2>
 <p>
-<strong><span style="color:#107896">Languages: </span> <span style="color:#43ABC9">Javascript, Python</span></strong><br>
-<strong><span style="color:#107896">IDEs: </span> <span style="color:#43ABC9">VS Code, Google Colab, Jupyter Notebook</span></strong><br>
-<strong><span style="color:#107896">Frameworks/Libraries: </span> <span style="color:#43ABC9">React, Next, Node, Express, Next-Auth, Redux, Keras, Pytorch, Pandas, Beautifulsoup, Selenium, OpenCV </span></strong><br>
-<strong><span style="color:#107896">UI Design:</span> <span style="color:#43ABC9">Chakra-UI, Material-UI, Ant-Design, React-Bootstrap, Tailwind CSS, </span></strong><br>
-<strong><span style="color:#107896">Databases:</span> <span style="color:#43ABC9">MongoDB, Postgresql, Firebase</span></strong><br>
+<strong><span style="color:#107896">Languages: </span></strong> <span style="color:#43ABC9">Javascript, Python</span><br>
+<strong><span style="color:#107896">IDEs: </span></strong> <span style="color:#43ABC9">VS Code, Google Colab, Jupyter Notebook</span><br>
+<strong><span style="color:#107896">Frameworks/Libraries: </span></strong> <span style="color:#43ABC9">React, Next, Node, Express, Next-Auth, Redux, Keras, Pytorch, Pandas, Beautifulsoup, Selenium, OpenCV </span><br>
+<strong><span style="color:#107896">UI Design:</span></strong> <span style="color:#43ABC9">Chakra-UI, Material-UI, Ant-Design, React-Bootstrap, Tailwind CSS, </span><br>
+<strong><span style="color:#107896">Databases:</span></strong> <span style="color:#43ABC9">MongoDB, Postgresql, Firebase</span><br>
 </p>
 </div>
+
+```
+project
+│   README.md
+│   file001.txt
+│
+└───folder1
+│   │   file011.txt
+│   │   file012.txt
+│   │
+│   └───subfolder1
+│       │   file111.txt
+│       │   file112.txt
+│       │   ...
+│
+└───folder2
+    │   file021.txt
+    │   file022.txt
+```
 
 <div align="center">
 <img alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />

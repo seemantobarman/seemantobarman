@@ -8,13 +8,6 @@
 
 <div align="center">
 <h2>Tech stacks I use</h2>
-<!-- <p>
-<strong><span style="color:#107896">Languages: </span></strong> <span style="color:#43ABC9">Javascript, Python</span><br>
-<strong><span style="color:#107896">IDEs: </span></strong> <span style="color:#43ABC9">VS Code, Google Colab, Jupyter Notebook</span><br>
-<strong><span style="color:#107896">Frameworks/Libraries: </span></strong> <span style="color:#43ABC9">React, Next, Node, Express, Next-Auth, Redux, Keras, Pytorch, Pandas, Beautifulsoup, Selenium, OpenCV </span><br>
-<strong><span style="color:#107896">UI Design:</span></strong> <span style="color:#43ABC9">Chakra-UI, Material-UI, Ant-Design, React-Bootstrap, Tailwind CSS, </span><br>
-<strong><span style="color:#107896">Databases:</span></strong> <span style="color:#43ABC9">MongoDB, Postgresql, Firebase</span><br>
-</p> -->
 </div>
 
 ```
@@ -27,7 +20,7 @@ Tools/Stacks
 │   └─── Visual Studio Code, Google Colab, Jypyter Notebook
 │
 └───Frontend Libraries/Frameworks
-│   └─── ReactJS, NextJS, Net-Auth, Redux
+│   └─── ReactJS, NextJS, Next-Auth, Redux
 │
 └───Backend Libraries
 │   └─── Node, Express, JWT, Sanity.io

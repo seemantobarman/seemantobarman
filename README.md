@@ -22,20 +22,23 @@ Tools/Stacks
 └───Frontend Libraries/Frameworks
 │   └─── ReactJS, NextJS, Next-Auth, Redux
 │
-└───Backend Libraries
-│   └─── Node, Express, JWT, Sanity.io
-│
-└───AI/Machine Learning Frameworks
-│   └─── Keras, Pytorch, Pandas, numpy, scipy, OpenCV
-│
-└───Scraping/Crawling/Bot
-│   └─── Beautifulsoup, Selenium
+└───Backend Libraries/Frameworks
+│   └─── Node, Express, JWT, Sanity.io, GraphQL
 │
 └───UI Frameworks
 │   └─── Chakra-UI, Material-UI, Ant-Design, React-Bootstrap, Tailwind CSS
 │
 └───Databases
 │   └─── MongoDB, Postgresql, Firebase
+|
+└───Mobile Development
+│   └─── React-Native
+│
+└───AI/Machine Learning Frameworks
+│   └─── Keras, Pytorch, Pandas, numpy, scipy, OpenCV
+│
+└───Scraping/Crawling/Bot
+│   └─── Beautifulsoup, Selenium
 │
 └───Version Control
     └─── Git

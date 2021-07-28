@@ -14,7 +14,7 @@
 Tools/Stacks
 │
 └───Languages
-│   └─── Javascript, Python, C#
+│   └─── HTML, CSS, Javascript, Python, C#
 │
 └───IDEs
 │   └─── Visual Studio Code, Google Colab, Jypyter Notebook
@@ -29,7 +29,7 @@ Tools/Stacks
 │   └─── Chakra-UI, Material-UI, Ant-Design, React-Bootstrap, Tailwind CSS
 │
 └───Databases
-│   └─── MongoDB, Postgresql, Firebase
+│   └─── MongoDB, Firebase, Postgresql
 |
 └───Mobile Development
 │   └─── React-Native

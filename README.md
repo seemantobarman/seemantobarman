@@ -57,6 +57,7 @@ Tools/Stacks
 <a href="https://github.com/seemantobarman" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/seemanto-barman/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.instagram.com/mindofarobot/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://www.reddit.com/user/seemanto" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/reddit-FF5700?style=for-the-badge&logo=reddit&logoColor=white" /></a>
+<a href="https://www.reddit.com/user/seemanto" target="_blank"><img alt="Reddit" src="https://img.shields.io/badge/reddit-FF5700?style=for-the-badge&logo=reddit&logoColor=white" /></a>
+<a href="https://www.hackerrank.com/seemanto" target="_blank"><img alt="Hackerrank" src="https://img.shields.io/badge/hackerrank-a9d5d4?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
 </p>
 </div>
